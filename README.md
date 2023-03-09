@@ -8,13 +8,13 @@
 
 **Seminar 2** - [Перейти](https://github.com/Yana-Sushkova/Java_potfolio/blob/main/README.md#Seminar_2 "Перейти к семинару 2")
 
-**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/README.md#Seminar_3 "Перейти к семинару 3")
+**Seminar 3** - [Перейти](https://github.com/Yana-Sushkova/Java_potfolio/blob/main/README.md#Seminar_3 "Перейти к семинару 3")
 
-**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/README.md#Seminar_4 "Перейти к семинару 4")
+**Seminar 4** - [Перейти](https://github.com/Yana-Sushkova/Java_potfolio/blob/main/README.md#Seminar_4 "Перейти к семинару 4")
 
-**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/README.md#Seminar_5 "Перейти к семинару 5")
+**Seminar 5** - [Перейти](https://github.com/Yana-Sushkova/Java_potfolio/blob/main/README.md#Seminar_5 "Перейти к семинару 5")
 
-**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/README.md#Seminar_5 "Перейти к семинару 5")
+**Seminar 6** - [Перейти](https://github.com/Yana-Sushkova/Java_potfolio/blob/main/README.md#Seminar_6 "Перейти к семинару 5")
 
 ...
 

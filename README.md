@@ -28,7 +28,6 @@
 Пример:
 нет
 ```
-Решение:  
 >[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_1/task_1_1.java "Решение задачи 1.1")
 
 ### Задача 1.2: 

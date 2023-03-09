@@ -18,7 +18,7 @@
 
 ...
 
-## [Seminar_1](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_1 "Задачи к Семинару 1")
+## [Seminar_1](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1 "Задачи к Семинару 1")
 
 ### Задача 1.1: 
 Написать программу, которая запросит пользователя ввести <Имя> в консоли.
@@ -87,30 +87,30 @@ n! 1 * 2 * 3 * 4 * 5 = 120.
 
 ***
 
-## [Seminar_2](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_2 "Задачи к Семинару 2")
+## [Seminar_2](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_2 "Задачи к Семинару 2")
 
 
 ***
 
-## [Seminar_3](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_3 "Задачи к Семинару 3")
-
-
-
-***
-
-## [Seminar_4](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_4  "Задачи к Семинару 4")
+## [Seminar_3](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_3 "Задачи к Семинару 3")
 
 
 
 ***
 
-## [Seminar_5](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_5  "Задачи к Семинару 5")
+## [Seminar_4](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_4  "Задачи к Семинару 4")
 
 
 
 ***
 
-## [Seminar_6](https://github.com/Yana-Sushkova/Java_portfolio/tree/main/seminar_6  "Задачи к Семинару 5")
+## [Seminar_5](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_5  "Задачи к Семинару 5")
+
+
+
+***
+
+## [Seminar_6](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_6  "Задачи к Семинару 5")
 
 
 

@@ -28,7 +28,7 @@
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_1/task_1_1.java "Решение задачи 1.1")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_1/task_1_1.java "Решение задачи 1.1")
 
 ### Задача 1.2: 
 Дан массив двоичных чисел, например [1,1,0,1,1,1,0,1,1,1,1],   
@@ -38,7 +38,7 @@
 Пример:
 Вывод: 4
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_2/task_1_2.java "Решение задачи 1.2")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_2/task_1_2.java "Решение задачи 1.2")
 
 ### Задача 1.3: 
 Дан массив nums = [3,2,2,3] и чсило val вводим с клавиатуры.
@@ -53,7 +53,7 @@
 Вывод:
 2,2,4,3,3,3
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_3/task_1_3.java "Решение задачи 1.3")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_3/task_1_3.java "Решение задачи 1.3")
 
 ### Задача 1.4: 
 Вычислить n-ое треугольного число(сумма чисел от 1 до n), а 
@@ -64,7 +64,7 @@
 Треугольное число 1 + 2 + 3 + 4 + 5 = 15.
 n! 1 * 2 * 3 * 4 * 5 = 120.
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_4/task_1_4.java "Решение задачи 1.4")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_4/task_1_4.java "Решение задачи 1.4")
 
 ### Задача 1.5: 
 Вывести все простые числа от 1 до 1000.
@@ -72,7 +72,7 @@ n! 1 * 2 * 3 * 4 * 5 = 120.
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_5/task_1_5.java "Решение задачи 1.5")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_5/task_1_5.java "Решение задачи 1.5")
 
 ### Задача 1.6: 
 Реализовать простой калькулятор (+ - / *)
@@ -83,7 +83,7 @@ n! 1 * 2 * 3 * 4 * 5 = 120.
 Пример:
 нет
 ```
->[Решение](https://github.com/Yana-Sushkova/Java_portfolio/blob/main/seminar_1/task_1_6/task_1_6.java "Решение задачи 1.6")
+>[Решение](https://github.com/Yana-Sushkova/Java_potfolio/tree/main/seminar_1/task_1_6/task_1_6.java "Решение задачи 1.6")
 
 ***
 

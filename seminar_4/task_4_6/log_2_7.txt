@@ -1,0 +1,24 @@
+мар. 20, 2023 5:52:16 PM seminar_4.task_4_6.task_4_6 main
+INFO: Введите число: 
+мар. 20, 2023 5:52:37 PM seminar_4.task_4_6.task_4_6 readOperation
+INFO: Введите операцию (+ - / *) или exit или отмена: 
+мар. 20, 2023 5:52:40 PM seminar_4.task_4_6.task_4_6 readNumber
+INFO: Введите число: 
+мар. 20, 2023 5:52:41 PM seminar_4.task_4_6.task_4_6 main
+INFO: Результат: 6.0
+мар. 20, 2023 5:52:41 PM seminar_4.task_4_6.task_4_6 readOperation
+INFO: Введите операцию (+ - / *) или exit или отмена: 
+мар. 20, 2023 5:52:43 PM seminar_4.task_4_6.task_4_6 readNumber
+INFO: Введите число: 
+мар. 20, 2023 5:52:44 PM seminar_4.task_4_6.task_4_6 main
+INFO: Результат: 8.0
+мар. 20, 2023 5:52:44 PM seminar_4.task_4_6.task_4_6 readOperation
+INFO: Введите операцию (+ - / *) или exit или отмена: 
+мар. 20, 2023 5:52:52 PM seminar_4.task_4_6.task_4_6 main
+INFO: отмена
+мар. 20, 2023 5:52:52 PM seminar_4.task_4_6.task_4_6 main
+INFO: неизвестная операция
+мар. 20, 2023 5:52:52 PM seminar_4.task_4_6.task_4_6 main
+INFO: Результат: 6.0
+мар. 20, 2023 5:52:52 PM seminar_4.task_4_6.task_4_6 readOperation
+INFO: Введите операцию (+ - / *) или exit или отмена: 
